@@ -1,0 +1,502 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 4 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'FormXob.f89ca373c592c604902c8ab18338568c': class PDFImageXObject 
+3 0 obj
+<< /BitsPerComponent 8
+ /ColorSpace /DeviceRGB
+ /Filter [ /ASCII85Decode
+ /DCTDecode ]
+ /Height 17
+ /Length 1696
+ /Subtype /Image
+ /Type /XObject
+ /Width 80 >>
+stream
+s4IA0!"_al8O`[\!<<*#!!*'"s4[N@!!WQ0"pG,6"pG29#6kG@&./aN#mq@V%h'!c'GqZ''G_H&*@2dG)^?=<(*G.N,:4ce.Oc5W/MJb)0I8+r.0&$%6NIDs#7:_D'+,'[-lNj>-n$Jl-n$Jl-n$Jl-n$Jl-n$Jl-n$Jl-n$Jl-n$Jl-n$Jl-n$Jl-n$Jl-n$Jl-n,,2!"fJ:&HGW0!?qLF&HMtG!WU(<*rl9A"T\W)!<E3$z!!!!"!WrQ/"pYD?$4HmP!4<@<!W`B*!X&T/"U"r.!!.KK!WrE*&Hrdj0gQ!W;.0\RE>10ZOeE%*6F"?A;UOtZ1LbBV#mqFa(`=5<-7:2j.Ps"@2`NfY6UX@47n?3D;cHat='/U/@q9._B4u!oF*)PJGBeCZK7nr5LPUeEP*;,qQC!u,R\HRQV5C/hWN*81['d?O\@K2f_o0O6a2lBFdaQ^rf%8R-g>V&OjQ5OekiqC&o(2MHp@n@XqZ"J6*ru?D!<E3%!<E3%!<<*"!!!!"!WrQ/"pYD?$4HmP!4<C=!W`?*"9Sc3"U"r.!<RHF!<N?8"9fr'"qj4!#@VTc+u4]T'LIqUZ,$_k1K*]W@WKj'(*k`q-1Mcg)&ahL-n-W'2E*TU3^Z;(7Rp!@8lJ\h<``C+>%;)SAnPdkC3+K>G'A1VH@gd&KnbA=M2II[Pa.Q$R$jD;USO``Vl6SpZEppG[^WcW]#)A'`Q#s>ai`&\eCE.%f\,!<j5f=akNM0qo(2MHp@n@XqZ#7L$j-M1!YGMH!'^J[2cfG_(3@`=!*Nrf"#Db"NZ@]HfI&&PJ4ZnB;nLSVP"D!@\ZlYfN#X:#*9.=BrFC36mgf;sU[]F]NU6+XB<]Q'#j6ooWm%-t87BZPSjQo;+*<+d<180+[&s&kcJm[CO]W"r:]Q;05Du%Y)Ys;Yl_ua?7=?`ShlhM[X`(L*l8`u8fP@'%K>dJL)MRk"@<.LR)(IoUL.;?>'mmp7'_OU>i[!@ld!R!#]6tEghA2.I+o)XT)0*YdIe?;^A%C1_M!VKQMfb!H*U]h,Br!&09:TML^YrA)rX.1cq"o?s#5^XY7(PXh?f$8'bhT,aj/3-Pe`:UKW19BCoY(8)>7QA[eE:3!orM=@hq\!MmbUTR=`gcDhJ'j?M_HD@h)j6MEVqr%4+gftM7tB.Uj1?cnGT5KpW$%VV:I9e(3#0MU6\pO[,e^>c?S,(29=X%,1SP$+,^od^LJATOkh>?R)215\hgXYj5o?Qhh#SA"ScQf>@.p9md%hIfhLI3HGfVD#DuF#Z)f!MjbVqE)<:K\H`#l'n]LFq]Ia>Ei9BnRrI2m^aK:Y&8BM'Z;S/>NG`80_kteqdpM4R'*G8<C_mcjbg-+e'GM6?@_&bBUD6+]ZOn,*]VpO$QV>N":hhQ,t#H?q6BU9Oh%\#>OdG3N_`m5onSd8S`[R']<>2R/g)/EOqnSQjTF/6q;D\1g\>Wbj(b60Of>CaY&T9p+DmZ(!AH=+WeMJ;!IV87#D9rr(Gd*6Y*BP%jDTnt_?PI0k=r^YDK:C6?q^*`@#RB9R5oP<Y'F;`2*N`>n.OF>)n:8.1'`Hp^cX^B"Eldknq]%SL#@'SHVGg109pOSVrKuqHs-fuZ>Z1(Q+hC%e.M_Bj.27:0I,/9DF/s:T;>HfAa1"UBi1WK%4'ERK`;+1I!;+1I!;+1I!;+1I!;+1J7s4I~>endstream
+endobj
+% 'F2': class PDFType1Font 
+4 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class PDFDictionary 
+5 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano/?nvid=nv-int-mn-78458) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 245.6972
+ 764.0788
+ 287.8022
+ 775.3288 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class PDFDictionary 
+6 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://www.nvidia.com/en-us/technologies/cuda-x/#source=pr) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 123.852
+ 743.3288
+ 160.0995
+ 754.5788 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class PDFDictionary 
+7 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://www.nvidia.com/en-us/gtc/?nvid=nv-int-mn-78459) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 96.73533
+ 711.3288
+ 195.4299
+ 722.5788 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class PDFDictionary 
+8 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-agx-xavier/?nvid=nv-int-mn-78460) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 307.3254
+ 647.3288
+ 371.093
+ 658.5788 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER5': class PDFDictionary 
+9 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-tx2/?nvid=nv-int-mn-78461) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 500.2883
+ 647.3288
+ 538.4271
+ 658.5788 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER6': class PDFDictionary 
+10 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://developer.nvidia.com/embedded/buy/jetson-nano-devkit?nvid=nv-int-mn-78462) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 85.94511
+ 517.5788
+ 179.213
+ 528.8288 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER7': class PDFDictionary 
+11 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://developer.nvidia.com/embedded-forum?nvid=nv-int-mn-78463) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 296.1347
+ 463.0788
+ 374.5022
+ 474.3288 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER8': class PDFDictionary 
+12 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano/?nvid=nv-int-mn-78464) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 425.6974
+ 387.8288
+ 494.7318
+ 399.0788 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER9': class PDFDictionary 
+13 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://developer.nvidia.com/embedded/jetpack?nvid=nv-int-mn-78465) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 74.93078
+ 149.0788
+ 119.2644
+ 160.3288 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER10': class PDFDictionary 
+14 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://github.com/NVIDIA-AI-IOT/jetbot) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 378.6797
+ 62.57883
+ 402.0197
+ 73.82883 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page1': class PDFPage 
+15 0 obj
+% Page dictionary
+<< /Annots [ 5 0 R
+ 6 0 R
+ 7 0 R
+ 8 0 R
+ 9 0 R
+ 10 0 R
+ 11 0 R
+ 12 0 R
+ 13 0 R
+ 14 0 R ]
+ /Contents 33 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 32 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ]
+ /XObject << /FormXob.f89ca373c592c604902c8ab18338568c 3 0 R >> >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'FormXob.1467785d295931d2e693653c0347254b': class PDFImageXObject 
+16 0 obj
+<< /BitsPerComponent 8
+ /ColorSpace /DeviceRGB
+ /Filter [ /ASCII85Decode
+ /DCTDecode ]
+ /Height 17
+ /Length 1696
+ /Subtype /Image
+ /Type /XObject
+ /Width 80 >>
+stream
+s4IA0!"_al8O`[\!<<*#!!*'"s4[N@!!WQ0"pG,6"pG29#6kG@&./aN#mq@V%h'!c'GqZ''G_H&*@2dG)^?=<(*G.N,:4ce.Oc5W/MJb)0I8+r.0&$%6NIDs#7:_D'+,'[-lNj>-n$Jl-n$Jl-n$Jl-n$Jl-n$Jl-n$Jl-n$Jl-n$Jl-n$Jl-n$Jl-n$Jl-n$Jl-n,,2!"fJ:&HGW0!?qLF&HMtG!WU(<*rl9A"T\W)!<E3$z!!!!"!WrQ/"pYD?$4HmP!4<@<!W`B*!X&T/"U"r.!!.KK!WrE*&Hrdj0gQ!W;.0\RE>10ZOeE%*6F"?A;UOtZ1LbBV#mqFa(`=5<-7:2j.Ps"@2`NfY6UX@47n?3D;cHat='/U/@q9._B4u!oF*)PJGBeCZK7nr5LPUeEP*;,qQC!u,R\HRQV5C/hWN*81['d?O\@K2f_o0O6a2lBFdaQ^rf%8R-g>V&OjQ5OekiqC&o(2MHp@n@XqZ"J6*ru?D!<E3%!<E3%!<<*"!!!!"!WrQ/"pYD?$4HmP!4<C=!W`?*"9Sc3"U"r.!<RHF!<N?8"9fr'"qj4!#@VTc+u4]T'LIqUZ,$_k1K*]W@WKj'(*k`q-1Mcg)&ahL-n-W'2E*TU3^Z;(7Rp!@8lJ\h<``C+>%;)SAnPdkC3+K>G'A1VH@gd&KnbA=M2II[Pa.Q$R$jD;USO``Vl6SpZEppG[^WcW]#)A'`Q#s>ai`&\eCE.%f\,!<j5f=akNM0qo(2MHp@n@XqZ#7L$j-M1!YGMH!'^J[2cfG_(3@`=!*Nrf"#Db"NZ@]HfI&&PJ4ZnB;nLSVP"D!@\ZlYfN#X:#*9.=BrFC36mgf;sU[]F]NU6+XB<]Q'#j6ooWm%-t87BZPSjQo;+*<+d<180+[&s&kcJm[CO]W"r:]Q;05Du%Y)Ys;Yl_ua?7=?`ShlhM[X`(L*l8`u8fP@'%K>dJL)MRk"@<.LR)(IoUL.;?>'mmp7'_OU>i[!@ld!R!#]6tEghA2.I+o)XT)0*YdIe?;^A%C1_M!VKQMfb!H*U]h,Br!&09:TML^YrA)rX.1cq"o?s#5^XY7(PXh?f$8'bhT,aj/3-Pe`:UKW19BCoY(8)>7QA[eE:3!orM=@hq\!MmbUTR=`gcDhJ'j?M_HD@h)j6MEVqr%4+gftM7tB.Uj1?cnGT5KpW$%VV:I9e(3#0MU6\pO[,e^>c?S,(29=X%,1SP$+,^od^LJATOkh>?R)215\hgXYj5o?Qhh#SA"ScQf>@.p9md%hIfhLI3HGfVD#DuF#Z)f!MjbVqE)<:K\H`#l'n]LFq]Ia>Ei9BnRrI2m^aK:Y&8BM'Z;S/>NG`80_kteqdpM4R'*G8<C_mcjbg-+e'GM6?@_&bBUD6+]ZOn,*]VpO$QV>N":hhQ,t#H?q6BU9Oh%\#>OdG3N_`m5onSd8S`[R']<>2R/g)/EOqnSQjTF/6q;D\1g\>Wbj(b60Of>CaY&T9p+DmZ(!AH=+WeMJ;!IV87#D9rr(Gd*6Y*BP%jDTnt_?PI0k=r^YDK:C6?q^*`@#RB9R5oP<Y'F;`2*N`>n.OF>)n:8.1'`Hp^cX^B"Eldknq]%SL#@'SHVGg109pOSVrKuqHs-fuZ>Z1(Q+hC%e.M_Bj.27:0I,/9DF/s:T;>HfAa1"UBi1WK%4'ERK`;+1I!;+1I!;+1I!;+1I!;+1J7s4I~>endstream
+endobj
+% 'Annot.NUMBER11': class PDFDictionary 
+17 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://developer.nvidia.com/buy-jetson?product=jetson_nano&location=US) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 159.5822
+ 610.7976
+ 236.6897
+ 622.0476 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER12': class PDFDictionary 
+18 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://www.seeedstudio.com/NVIDIA-Jetson-Nano-Development-Kit-p-2916.html) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 442.1897
+ 610.7976
+ 463.8722
+ 622.0476 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER13': class PDFDictionary 
+19 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://www.seeedstudio.com/NVIDIA-Jetson-Nano-Development-Kit-p-2916.html) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 465.9572
+ 610.7976
+ 487.2197
+ 622.0476 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER14': class PDFDictionary 
+20 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://www.sparkfun.com/products/15297) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 503.8997
+ 610.7976
+ 536.4122
+ 622.0476 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER15': class PDFDictionary 
+21 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://www.nvidia.com/en-us/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 43.51969
+ 578.7976
+ 68.52469
+ 590.0476 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER16': class PDFDictionary 
+22 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://nvidianews.nvidia.com/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 327.3947
+ 556.2976
+ 423.2672
+ 567.5476 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER17': class PDFDictionary 
+23 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (mailto:kuchiyama@nvidia.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 43.51969
+ 210.5476
+ 122.8172
+ 221.7976 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page2': class PDFPage 
+24 0 obj
+% Page dictionary
+<< /Annots [ 17 0 R
+ 18 0 R
+ 19 0 R
+ 20 0 R
+ 21 0 R
+ 22 0 R
+ 23 0 R ]
+ /Contents 34 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 32 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ]
+ /XObject << /FormXob.1467785d295931d2e693653c0347254b 16 0 R >> >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R25': class PDFCatalog 
+25 0 obj
+% Document Root
+<< /Outlines 27 0 R
+ /PageMode /UseNone
+ /Pages 32 0 R
+ /Type /Catalog >>
+endobj
+% 'R26': class PDFInfo 
+26 0 obj
+<< /Author ()
+ /CreationDate (D:20190320000023+00'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (pisa HTML to PDF <http://www.htmltopdf.org>)
+ /Subject ()
+ /Title () >>
+endobj
+% 'R27': class PDFOutlines 
+27 0 obj
+<< /Count 4
+ /First 28 0 R
+ /Last 28 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+28 0 obj
+<< /Count -1
+ /Dest [ 15 0 R
+ /Fit ]
+ /First 29 0 R
+ /Last 29 0 R
+ /Parent 27 0 R
+ /Title (NVIDIA Announces Jetson Nano: $99 Tiny, Yet Mighty NVIDIA CUDA-X AI Computer That Runs All AI Models) >>
+endobj
+% 'Outline.2.0': class OutlineEntryObject 
+29 0 obj
+<< /Count -1
+ /Dest [ 24 0 R
+ /Fit ]
+ /First 30 0 R
+ /Last 30 0 R
+ /Parent 28 0 R
+ /Title (Media Contacts) >>
+endobj
+% 'Outline.3.0': class OutlineEntryObject 
+30 0 obj
+<< /Count -1
+ /Dest [ 24 0 R
+ /Fit ]
+ /First 31 0 R
+ /Last 31 0 R
+ /Parent 29 0 R
+ /Title (Media Contacts) >>
+endobj
+% 'Outline.4.0': class OutlineEntryObject 
+31 0 obj
+<< /Dest [ 24 0 R
+ /Fit ]
+ /Parent 30 0 R
+ /Title (Media Contacts) >>
+endobj
+% 'R32': class PDFPages 
+32 0 obj
+% page tree
+<< /Count 2
+ /Kids [ 15 0 R
+ 24 0 R ]
+ /Type /Pages >>
+endobj
+% 'R33': class PDFStream 
+33 0 obj
+% page stream
+<< /Filter [ /ASCII85Decode
+ /FlateDecode ]
+ /Length 4766 >>
+stream
+Gau0FgN)%<&q+ths'ZtW9&;-4+TR)opJ&)*Y;Yns(;4^fnhL?&j?s!&`^M`Uom=7T+9:\!4"74HR_[^i:S0i,,?IS.a5t(r9Sf#Cn\]-D\=Qg(KKF=R@e$f"EUit[(]JEDfC?cgIEr]A50[`H!/$n.S++m9rVTe[c%N"bHBY]lG`hGgB@@a%4*WOF^;A4?:?m.#(^SG,%/Sqj.C.93l)^V)/H*qVK=MfE-I_e/M^,cS,N"Q6=VQc%oDI8pc_!5V`-8m[m!+<AK"g8Tp-mP>@$*:(@dgr9HpMBPSU_2-VshUa?XheP$!s<8rk^m,meUnGJ8XREjtupQ1#RHb%\.3E%iik8Dgj[MlZdg8hEfmZM&5SE`SqDTjM@dMNdT0P_oQu;.#O%om`ccE%lJM@8!o'\j@-P<i(b9Do-Z_m_@<"XEnd^CoZWB5U[>hnhrVi=\N%oV;s1D8`IClfRU!Lh\bW`0`uH/Nq0jT<;jDU.f:-M.RN\ju?(?s?Mt9U3b%08<;MA4hA0jFjGq%%fPb,NFM+YtB6?ep[[Ma\<E<FgBMA\HNg35`pH2]?2hSd<:39n_U#'=CcF?4QWaQpQ4`Dm;JB$g&e(_i'!NX$"%*k%G](aX)aHkHf%DfV&1oc=ml=/o(NpitS]ZSIBm$eb:u&_0>W2On'0-L&)'nAJ*%]B<B<^)18cZ@(I(U`uFAnf"[]Q.VP2eB:g"3>!'"<_?m`9soPubY%*3;Y]-Qjcq7gAYl]\3RrK5loVls!N-A5KG3YWf:=of301Z>fG!u_Z9*88Qb@u0>aI^gHc/2XR(LQf@(WM^9KQ7UlL`^2(@qcHGJaY4#Nk]=.S;E)4n7\-cgO)'O`?lR@Z.3Od1U=4p`PGTcZQr;)1n\mkNtr_SJmo\E+U;9.5m!pFDnWG<i_LG2-_tQ>r/2G]nkXc3hr*R.8jGOE&0\o4L1t^p>]sQrD#Q]^>la)U8.0J7+C"_Gc*XOT1-Tg$'+qJh^G$>J,oI.@d)Z64EfrZ5]eME,WruYGkL*D0P"Li>l:Lcq0LQR9Cacj=Y?_F&VL.EX7;Q96<otXRqkD8Go[u,C4M$/aGgn7L%RQU]W"OUbKBgVVfBD\fG5g5isO7r&]De_YZ%G8:'<A@CMY7Rk*k5TMfi0gj%L6??uqU7e[GbYD!$-J31f'i8Jq;"$.loAbBgcX7:i4sp*`X=PA(04<#XCj`8F%N%-amI$1`NAKNtpM"eo>"Cg_Q$i@(umXn3A5D.58%2;Z27'nn!51)ER&Rq<^=<\SISLs&E3Znt."*k'*>Dp>^cAO02-.V,E$^(Cr6Gm`2#ZJ6N&KH*P,]Iq9\!.cbA*!P79^j3p[QFGbr8FIM;9*:HC4mYY`I.CQ7Gih*8,RC*cS9^;pI1MnXID>[I<Z8^N$AS?WOE'HfG-u$<F2D':lOTJ:_WI&$H8OspM"Hg]Cg)%qM'#I/dh)>1d>3.T^AX?1L0.#Xg-(60@+pXZDPI4TJdZr@Vfea#M#1(G1]R9?cf2:DdAj]X!\epS!u@)CATF!&Ra;jhYd=SVh/b55HcI[.;ZWna9*_tM-:'JB]a<[d,sZsS&0j"5]VUL&Th>Q&Q^',%H>=<dF=LG3)kt$;J]'I3'dZ;2S"3A_/!VKX=%Wmo38<\41LOC:gRkk$79I\Pof3aV]tlUcA^[?0XC1E8PHRok7.BY@%?;P>SD!Y`hrD6<*7+@+_=Va*rJpHMD]5\Li3^]B&-+Gi?7YhZT42_Z76.?0((EEX8<EA_,:,<;E5kQF/10:-?)b?6BfZYPc)TL>6<S$EGQf>CKubRfmTDQga`Q\Acp8*UWhPbMjll%>Ms3W7.(-1r!hPJuEMI"f/QHQV&MFDMWec*iTQ6#[$nZVY!W26bfN"-?*C2T/=^^uG!19M>6H0>uEhbCY)b<8^els;Qpt0Elba#4L$*c=l_DjJ5Hos_r\^`MsPapD:Zns@t"286DO`n"3[<$M7._'lPR@_X8-\:UJ9QnfQPk[gOHk8=Fde.,d"Dk/.b?=1t97dlKgKK/V%$WT_Zlr,Ud.mYaaQd#3HOE3:;^<g#Y?7f,eg5.Chs)%bY?J>'OsVnk#_5[if3fIpY;_HBAp<`&BYp"*bC&MSD!h;ZQ>]NXr+S"f:/sE1GJ.DLob3UKr&1&%b&=3ReFA0js--3"?BH!D4]5_FiVL8L-N*TN(AYMA?P!b]l>nnE9j&KQ4bC`811a4cd3W_\0Y!c`9Qm*#",.7#Z4f[p/7`@?d1])F9b"Ej!jLIdS6OP_+cK,]#lOc>.kPW*8G/TT`&'Ck1r@dC6^0.0Ym2Nu?!:bZ`gSO";d,ZX1c%d(*25,[dg5WB!6H8iqa@W1"[GG-@p4_+N]9=;P1WiR\#G\KJtX'<]MA`E&:U6$+3:q,F(T=))r^s9o7sq$SW\2fa^jN;:TV4..'gf*B6k-0fW<)soQY)a[OLL7CQR`&lcO%_cT88ENbl[5BfLYLKkD69D88MW2j?Y1D/E$)KdM(S<=*E=EFm/.3sT-MdL?q]<G7hT+gb,2[_XFk<+Uan4NSNbI?1taBo>LtH8^>>%n,7TcZIf#3sn&INJcB3jrK%4/M-L6f9?S8Q;!cTC/n/&SQsoD?2kk.s+t"B"ekf-Y+e=uk[`[i@\S7F^;cVZZqVS9\fiJigdl=\FX#c'o!_?q+S/-E5D`sO]NPm5jSg8t?>Z?G`Ao@kg&hTg;[aOX*k#@O(E^HpYpB1?KeA_u%`LL3<kP;a6DKh4)_n:t"eJ^I^T')ZVJL1l<e+GtOikIgWih20LEsWhR?b'hB+HP8,]_U"@t]rdD-3li\O7&4*oo9]S]6OE#ok^Y72]\/"L8I^-k"lT`t:&!N_>iAQA(IV2lRHb*L>0NO?`]0:@LE"k""2@%`NOAU9:I,"/+!5h!VcZ'(<Nc#2[gT^jQX+jaKp":k:*E/!;Q,Ro[?HUL#`h6cjAJ<%b,q<tu@:pRp4"%J;DqiYK>9e:4K\c-%q2BiT9,TnMV"&lctUnf\=$Fh>:2pD_Vf/(Nd&;TcnMTSo\H4VK`MZDC0V2UP[0a#T`+?NO'Q>X8CP."dnG!Ci@U)^L/eEpYfbf>sK_AWo&43IkVg4ej]s>KKG;p>b9D_?Qu,YK:f"Xhis!/ta!,dH4#q%5\:\7AVf@&!fYZ$`LVQ`b=(@`;0Hs*5g6HnA<=1YhV.,Z]R\n3n/$P>"ge[_Hul70b=(XZI;^*1^=]DKScHV0H>F=hJuE\<8.*&Ds?"@hU80\Qj$@Z1a-8od:`Q-Eo<4RCNZLKU#ZSH4#Jb#bsimUcqCg5BGqsufrK1%rWbt$qu[eKCs*3f2Jfe=*LKkD<4]Gj_NBFK.uLoe=AfX3[u!64le?#\#=#6$_6PS<,Lc?lJV2CjFJ?4CfrO15YBci9pEsb6O.&=_4B]GIASf:8K3E_<$4C@g%9"]2>uF1_lXc8)lW&^p`5mD5nqJed\3!1-Sn6DB#Phq';3p\I#$6%E3U!U!'G#?sN^A*TU4R')mC&cT/,lQ7l77]!*SY0-+2qjPpIMJ]:5m+ldU</C&u)bbaVqP^kigX`OJ0jd@He&eh.>'#8I@L"Z)ILk>#fPW5cJr55;&R-YNru.>,nSHU<!0,oq=]4lDpHbV,24l_H-^>Q97/rHcV`7"i1"Q!eP\j^lP^SYsLPW2]@8TkrA56BfnR0<E$=re>\]cll1;6.7UFPl01LTBC\h8''Km.Wj(EsQnPj8p=kMs?a%Bo[6'Mb#RLlRq@#Gn0A[BKnTBDoO0]>WQJ!H(YitFr2TO$\=>sqJ#e4^7#-XAV:ZVg?Rf-gBV#-Z?Fh(<oVp4D`D!F3D.4D&SVj61=8q),LnD,P`G(QX#8F'4V"Z.KC57OtQ8n_@B':"g[D.-Ki.9Eq]@*8Ru7rk?UHdi=p$_>?O7?a]&M]=UcrNPOe]]duOY.c`Nd9Z5Y!>)NtN=W#D.soT1=3HmY#%uu'dr)B;D;#uXhC7>qVU"m=7i)7J`@.UDL#blmEPrhfm!dS,i=PaPY-h(H;t\'!`3E].$df&-[V^2r^"YOTX#8!/#,bp/\$r;(o_5#HrLr]sL4[IfLe+!`'<"uF:N^cO%=bTWdi!8YNP1:g<_<.:;eOYRh7kLD%Oqk<RC_fshS87a""0U6BChmVmf#r4m8l%Tq2T[>YfB-"iHT\[m^m4\T2ub1r&cT*Bj206ZKc.<ju"Nj?>1#UPDQDYLVNY[93.r=4Q9DDP*AEf`UYNZ:&7ZYZB1#fDOWIcXQ^LDh:lF%0+mJ"\h'bFTNrF<m*1;]j2:45l,FeI*r`AQl9hWHN_8I:=lS`+Vu,r2E(Gl3MLaNQ]=Bn`SNcFbQ:nY=ds?M9SIt5EDQe.'*CkDD$O#F3"$.Aj#,a;hU<Z`4AUCh%9+>"uE9#0I5&dZ)-`:R=q4-L-DlF1td!nA(W9F>f^BW;dE%[DNLL7Ii#g#dp@=@\6h+0*lLAp4bY@+oaECUC6]YAJj$gI6/:J@8#K@Xad:[YO?cBcN$5qE[,:(:8MjIW3]T,]4(LC<N_Q^+Zt2i$-;/cmeejK==SBspKe[ADAQ=1].7SU-nbj1EIKT(W!];S(a-%O1)0k3u=<T0B85R=&[Ac$]#S0U8X2>:"`tFaW#CW;/7Y]qA.uA5dBVg5ELp]6s"Q?$FJJ5O*(.NE\=:+V@qJ%k%`!I>5\(ks+X8krCUg66d9fC3uaPPq<SbNMD8B!Sh"MMIFV;@Xn3TJ!FD-_KQis+X,S\?eO"T$/KBHX3BXPSPAUN4&(f6?'*LTY)\#18QYqkQUc/l&>I,7BE&3W*2Gq~>endstream
+endobj
+% 'R34': class PDFStream 
+34 0 obj
+% page stream
+<< /Filter [ /ASCII85Decode
+ /FlateDecode ]
+ /Length 3985 >>
+stream
+Gb!;fgN)%<&q+ths'ZsH[E:**iD)^cM(I>?@On]X3La"D"U'S@6i[G2!2?u1^Sb]E&tgimf=P%`ZH<6"\TFH(IC^A^_ef6lo`%M.fW-NGoYt="bHC!OnL^A=]k=OP?G?37J"1[ASiC6+p"0CK;&BM)r:5QDT2pl:0=k_2]o:]MUg([+Ga9HJU#("_`89@f:M:Md>\b<5f,[OGH6]Kg%lps959,_360^p*j>j3__oN2f0<mZilj!HJS]d?Q5/)DQNG[!]"1HVnDE%2=&$'(!r=,pXG#R%rNPH"oBl!t6<(-K6e_f%gcP$^12a?T"YP2>X!RM]gG!r\:-NH?kE*uC,j7#%6gh>`PA%C=PSthiNm(iR^?2\>>*mArSjTiF>O*te![[g^Qh8o/o;hrX]/j/3S'3U?jh0Ie,?[/\`_1%@OaeiiRo:/NJSgY?j.@\J*]o">CSKoj!hXNImo=/ZfY*b`crcD!_=d/F:%[-]D\Ee?h/,)Va%m1hUkI&LKNH5Uo3;DKla4a4mnU:`QCn"-?8+Gu%cc;^>j=l]2B>=FpEIMoM0&t\$ca#4,kHMHgQD3LJ!I$M]'i,_0m#.*H5F!Dl[n*&%;BMAf2,Kim]):Ol+Zg.Qqh!deXmhb-k')r.H-H21lmLrKCgJUbjksdp%K.OJ5PXdo4#0ULqk*F'OX\neRW?!p(IVMRc^dpQcE$`-?!_og?t[rH6^O?nq"[^O`<B<f7--".]9I#nE?I_I3HXGShsa=*]OL=trT2(JJ[:n[03X])Qdm#H@rG_Zcp+%WR_A`?If@GR@;]J,C`sSaCgD+)Ud2(,h%QQ&14K4C-&Vi)/T*rcUtu_,5j<F)jAj%^I/uWgJ*rKmgQYF%ZBS@;bhe8P\RfhbYq*Pe@M86[&IG"@Y<PK[fMqd,+%$k8SD>qbaRahRn0cOg;$NKC,3%5ZP)9-cO?>A>rm%OSGA1Z<HMd8%!CoN#%WO_?r*Y,B#JN\L2Vm00fTZSddDQC4]j\Wj>@,[GfadX[fCGo=l4*DLlct*2M#!86W5u@ndI)V(Adq\1E^6N]Z,e%r)<>U4e6B@;Z$l7C.s>m>gm##@dXHGF!o8E1#eVhO8kZr1;.MDMhOg.(fYE.^*&g48'a=Kg`'l7m@2]DaAD9#[I,q"S5HdJ@Yo-nVYZcpi'ZC-u"oG,F\CFHtf&j]0os,O^Pg!$+0.Y^,QE:gM;bTt@3"Z4;N0P0HSAc@=KrQXXCMI"ObqK6aeT:Oie;>Pl_;\-[g8Jgac0H9s?HJ`!nMNep%T5`MMIU;>.H`hL=oQ^6\k.V2*CO#r%P6Z*qFsoTR_*3C"bHVOh>MMqf]]rLW$Nr$#MT`sG;NC9]`rWIP<j#0kblK#pbC@sNYUF8ESYtD5Eegt1-u)nM[^[,c8Z(S,1IClhWUP;\uqfH*De3alfn'>o]%YA5!K3l7<-42Ceu4\7Y*f6*mrPqU516Z2kK=3Mb:-;gNM)%1U`*\U3KF#l4L(Ab3,M7BS6o]%$nuIChdnt8[_l][Q1PdNQ`<p&3?9jiW;.S#(E44"<5Ba`j9h'Ch0eDC:u*g^trljdY=WhQRq0:<Tn+#'^/RV#+T!R\3AL;(AtUQ.(ICuc'%5Z9#.RSo/P,.@\rP;.Z1j_'ODqX.QN^#)?r#YVKb!`9InUtR%M;3XUs)F!YLG!(H85OBaP]TC:^2m<jKlrei-GkP4D_I7Vp5S4#+4Glgji7W43G=5c_+eQFXA1imDtiQfeMO[B0"Z0*fm^f]g9'RQ-GqO6OTt;1A,:-K<sJCS$0]MB]',,,(59<sg2WB,,@B4b5:3#!GISW`^Zhc/DidqX]Q*kd`Q"H%A5]5t-p&i9Q3oV28+rL12K0MEC:<7dYt>e@AH;:UF1.GI-Gq^;NQhi:_pc\Rs=^G:/"t<E&*h7/0X_;ClF[B@[u]Yb^8tNTJ64+M5'\'K*q/"l*Z]^X?&5Kni,n]SZ(oUQm:pN><7EA2gmH#ch`03DSlA69eLdSab+R3s&B"$@.4P5ZUj4CO=64Pgn'H'`^eiNEtpa`Lnir8BkI_]Q"!EfeM0dOh6RoNM?AG50qeIr*#RIFO5\#8\c0/2%,@nn^UeYjp5Q6#.A#G"&2\>jc-,HK:hukRZbXO^m.b9K6ADV>,B&5U/7\Zjb>)e:>eT2O>e@E'+:OTYrI$)f%QLg;3NNc`hj\\*\guo%+@$fG/[:uJQXAT+`IrWs2>:XXf5E_lX20<JS&S<3"D[%U91$W\H\27f&4\h;*NCHG"K6h&/fbEX`"kM[h&U\rVQuIDU7;>im7!@FA`WQ-mCb#&>+.P4ne6X0tAs4RZ%`Q2Z2iOkF*dA6=t83_l0]rA=b`6%eu5LVR@ZF0GA[pj(XD<ij-crU;83o+jnsIm-H>b4Ep-\^9P2+")S_%")K#/b5LB_--s)OFXEk,l+6hiRkgf?g_I(>0"3kWcg19AN&34&Z4K?/+J-bMY'G?1c@egNG)NN_aTXXJM\15^D3B=N9%p9fW]$X>#HbWNKJVJIpmPu.#o;(TQo'@MKSf7afD+o@3$^JrBh>Ai9Q&#$`3Qga`bY,rD=fEdlcDESHQ#WuT)Ndl1jj*EIctL`0;)qLJqp4.;2?^q[K8ur31*A9BlE'ae!m#]rb\/ONN-RH.V!fF<0JHYkYPYPCBl[qOC,B1P%Q'eU'b]qo#YXHR^>>1a_P'Um%g.j&gH(FRmiGteB_O5=X,\sTpo$.EM4m/DhQR7U/PSnG+Z2jRokSq/RoSY%nCU-`!:Rjg'L[7[jQ%9$#ipbPoaO8C/fPj=s#]cJg`F<(kT(,l<:Ug?Xh.[9l*`QasJ@M,:u/+<0N_@RZX2ZCI(MnD;STj6qq_0c**p$DHlHOV\Fps'lfR:A#L3X,N_jm1A`#"I"ST-\$+Ja^N]Dm=kA8RHW?JlK[KZsd6]LUM@(:7[q%dfW)A@:hDe-M:c)]h;t1G,)?o6EE.o4m3aT0;buIIG%4ue@..i6d@q*@j5l,ji>m(nJ0$/%]Qh\I6@Id%j+_FWVDY2-)cn.Zi</(*LP"Y2q9'p7UMpP.d33_)@*'X]r"*]76P>35LZ'Vj!CT\K0=Fj3>B0]PfW\9iGpJ\6AmYlIbOu\o/g2B21@a=XClL>Zqf:Y)VeKDf0%W16p[N!)#]5HgNQDY_gVo(CGLg;gm`#o7f,p`#3-0/N6(j[C,A4Y,/?shdZnTP!0C<;BNBpP3$hpd<UIenX/^N]7r"KGo2QWi:X:e3U`/aM8?e0<LJX+0H@S9,.G1S#h@;(/F3IF9)ke[@u<ncVLQS-5`sh\onT)00\_B].2.p"APkl@+L<G2W1f!M%;]SPtE_6mW^<d6rI,_&W@AS_j*V")dT8U"Pjg)tMC.3FuFoGL,FjJZU#tca6*6Jg,lE_80[Ip"^n)i\LbU9c:^HMP7Y]`O@MQ1tF75Zn&i5!*7X%lh>6-SjsJODX4n<gk;VGj3#"Xl*sY?W053Qn,Qk7Wmc9";LemTc:9^+1i1fAi$%l/I)WiYU&kJ(29Y"0W3\KQ23Gj%VkZK]6&&X3Ed:loeDG;!FJ$l88cc']r'imN6P<6B9s1i'W-oV-GO.Nd/"-@Ih<c.ab=5QHb.G]`h(LD'<nJ%-aIUE[Pga#ClkG"SM8`A:7Hf&8G\XVg8,An48VhaJs6T@QC"I?B3mZ9aJ$;/s)o8T&YaO=]nU2_Lr^Ye3hP8.u(ceHk]&JF,eYaqB1t4%OF-T>D8!;<Q6;[JMIJELZW--_2:-q-K;bPTeBFck7TrT)irRTiPTr!Nd8Y\P+8PSIgWIDq7iNB&':o4.`O)O>u'@*YT89@\3[5UXX1(g=O(44O0bmT\N,nd=JK>OPrT1$o8$>R%fC#uIT?j%c*^V/kM3<-gAV>J"\HMj>u,u6sgj!e_V^Y7:5n&aIImpkKC1%VQrjTGCM/B'Zqj*_AZT)9>rG8g;gLS<d?rZl$WlVI5^dsgjH`t,n[hnE:GJ#W/*S+U\\AR;':2_FA\D-rhtiYd+=inqZ<4iR~>endstream
+endobj
+xref
+0 35
+0000000000 65535 f
+0000000113 00000 n
+0000000221 00000 n
+0000000427 00000 n
+0000002357 00000 n
+0000002544 00000 n
+0000002861 00000 n
+0000003137 00000 n
+0000003409 00000 n
+0000003731 00000 n
+0000004047 00000 n
+0000004346 00000 n
+0000004629 00000 n
+0000004947 00000 n
+0000005233 00000 n
+0000005477 00000 n
+0000005962 00000 n
+0000007906 00000 n
+0000008197 00000 n
+0000008491 00000 n
+0000008785 00000 n
+0000009044 00000 n
+0000009293 00000 n
+0000009543 00000 n
+0000009775 00000 n
+0000010197 00000 n
+0000010335 00000 n
+0000010570 00000 n
+0000010695 00000 n
+0000010960 00000 n
+0000011139 00000 n
+0000011318 00000 n
+0000011436 00000 n
+0000011553 00000 n
+0000016462 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\203+q\376R\243\274\217\246`\253\003\373\317\3229) (\203+q\376R\243\274\217\246`\253\003\373\317\3229)] 
+
+ /Info 26 0 R
+ /Root 25 0 R
+ /Size 35 >>
+startxref
+20563
+%%EOF
