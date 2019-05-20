@@ -1,0 +1,704 @@
+<!DOCTYPE HTML>
+
+<!--[if lt IE 7]><html class="html-page no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]><html class="html-page no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]><html class="html-page no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="html-page no-js" xmlns="http://www.w3.org/1999/xhtml" lang="zh-tw" xml:lang="zh-tw" ><!--<![endif]-->
+
+
+
+
+
+                      
+
+
+<head>
+	
+
+
+
+                      
+
+<!--  Added for weibo metatags to deep Learning  template -->
+
+<!--  End of weibo metatags to deep Learning template -->
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="robots" content="NOODP,NOYDIR"> 
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="keywords" content="Maintenance">
+<meta name="description" content="Maintenance">
+
+
+
+<meta name="ps-key" content="1781-57d9f03d015405367a598032">
+<meta name="ps-country" content="TW" />
+<meta name="ps-language" content="zh" />
+<link rel="canonical" href="https://www.nvidia.com/zh-tw/maintenance/">
+<link rel="shortlink" href="https://www.nvidia.com/zh-tw/maintenance/">
+
+
+    
+
+
+
+                      <link rel="stylesheet" href="/etc/clientlibs/foundation/main.min.fc69c13add6eae57cd247a91c7e26a15.css" type="text/css">
+<script type="text/javascript" src="/etc/clientlibs/granite/jquery.min.d311399a202bbfe8f6b94a4546a2a025.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/utils.min.960d4a24cc6fa3b473b4ae2018d5c364.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/jquery/granite.min.1cd927e8b915fa4931c6c086a8cfda10.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/jquery.min.d7c42e4a257b8b9fe38d1c53dd20d01a.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/main.min.54914e3b4b3933eaf46e78c1306f43ee.js"></script>
+
+
+
+
+	<script src="//assets.adobedtm.com/b92787824f2e0e9b68dc2e993f9bd995339fe417/satelliteLib-ee6402c9231e8a27b7144b678ce0c7200107a43c.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="https://use.typekit.net/vvu1ppt.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+
+
+
+<link href="/etc/designs/nvidiaGDC.css" rel="stylesheet" type="text/css">
+
+    
+<link rel="stylesheet" href="/etc/designs/nvidiaGDC/clientlibs_base.min.1911cc6fce99e00d39116a1686f439ca.css" type="text/css">
+
+<link rel="stylesheet" href="/etc/designs/nvidiaGDC/clientlibs-all.min.5cefdcaf99571cad8b1f299e8c85df97.css" type="text/css">
+
+<link rel="stylesheet" href="/etc/designs/nvidiaGDC/clientlibs-deep-learning.min.a52e5097932773aaf1f5cd820e07fd92.css" type="text/css">
+
+<link rel="stylesheet" href="/etc/designs/nvidiaGDC/clientlibs-locales.min.e6fde2217c1b37aca848b5ce39628e2c.css" type="text/css">
+
+
+
+
+
+
+
+
+                      
+<!--  Added for weibo metatags to deep Learning  template -->
+
+
+<!--  End of weibo metatags to deep Learning template -->
+
+
+<script type="text/javascript">
+
+var NVIDIAGDC = NVIDIAGDC || {};
+
+;(function ( nvidiaGDC ){
+  
+
+    nvidiaGDC.addProperty = function(obj, name, val){
+        if (!obj && !name){
+            return;
+        }
+        
+        nvidiaGDC[obj] = nvidiaGDC[obj] || {};
+        
+        if(typeof val != "undefined" && val != null){
+            if(!nvidiaGDC[obj].hasOwnProperty(name) || !nvidiaGDC[obj][name]){
+                nvidiaGDC[obj][name] = val;
+            }    
+        }
+    };
+    
+    
+        
+    nvidiaGDC.addProperty('Accounts', 'LoginGatePage', 'https://www.nvidia.com/en-us/account/login-gate/');
+    nvidiaGDC.addProperty('Accounts', 'LoginPage', 'https://www.nvidia.com/zh-tw/account/');
+    nvidiaGDC.addProperty('Accounts', 'accountsJarvisSrvcBase', 'https://accounts.nvgs.nvidia.com');
+    nvidiaGDC.addProperty('Accounts', 'accountsJarvisHeaderMagicValue', '');
+    nvidiaGDC.addProperty('Accounts', 'accountsJarvisHeaderCFGRefereID', 'Account Mini-Site');
+    nvidiaGDC.addProperty('apps', 'endpoint', 'https://app.nvidia.com');
+   
+
+})(NVIDIAGDC);
+</script>
+
+<script type="text/javascript" src="/etc/designs/nvidiaGDC/clientlibs_preload.min.a5deaae4d8039caadd5c9cafbf63682b.js"></script>
+
+
+<!--[if (gte IE 6)&(lte IE 8)]>
+    
+<![endif]-->
+<!-- <noscript><link rel="stylesheet" href="[fallback css]" /></noscript> -->
+
+
+<script type="text/javascript">
+
+var nvidiaGDClogqueue = [];
+var nvidiaGDClog = function() {
+    nvidiaGDClogqueue.push(arguments)
+};
+
+;(function ( nvidiaGDC ){
+    
+    nvidiaGDC.SC = nvidiaGDC.SC || {};
+    nvidiaGDC.SC.vars = nvidiaGDC.SC.vars || {};
+    nvidiaGDC.SC.vars.pageTemplate = "/apps/nvidiaGDC/templates/deepLearningPage".toLowerCase();
+    
+
+    var nvidiaGDCFunctionQueue = function(){
+                this.queue = [];
+            };
+            nvidiaGDCFunctionQueue.prototype.addToQueue = function(funcItem){
+                nvidiaGDClog("funcqueue/add");
+                nvidiaGDClog(funcItem);
+                this.queue.push(funcItem);
+            };
+            nvidiaGDCFunctionQueue.prototype.clearQueue = function(){
+                this.queue.length = 0;
+            };
+            nvidiaGDCFunctionQueue.prototype.executeQueue = function(){
+
+                var nQueueLength = this.queue.length;
+                var sTargetID,
+                    sMethodName,
+                    aParams,
+                    $targetElement,
+                    fMethod;
+
+                for (var i = 0; i < this.queue.length; i++) {
+                    try {
+                        var funcItem = this.queue[i];
+
+                        if (typeof funcItem === 'object') {
+                            nvidiaGDClog("funcqueue/object: " + funcItem['method']);
+                                sTargetID = funcItem['id'];
+                                sMethodName = funcItem['method'];
+                                aParams = funcItem['params'];
+                                $targetElement = $(document.getElementById(sTargetID));
+                                fMethod = $targetElement[sMethodName];
+
+                            fMethod.apply($targetElement, aParams);
+
+                        } else if (typeof funcItem === 'string' && nvidiaGDC.Func) {
+                            nvidiaGDClog("funcqueue/string: " + funcItem);
+                            console.log("funcqueue/string: " + funcItem);
+                            if (typeof nvidiaGDC.Func[funcItem] === 'function') {
+                                nvidiaGDC.Func[funcItem].call();
+                            }
+
+                        }
+                    } catch(err) {
+                        if (typeof console == "object") {
+                            nvidiaGDClog("Error running script - " + err + " (Has plugin been included?)");
+                            nvidiaGDClog({
+                                "sTargetID" : sTargetID,
+                                "sMethodName" : sMethodName,
+                                "aParams" : aParams,
+                                "$targetElement" : $targetElement,
+                                "fMethod" : fMethod
+                            });
+                        }
+                    }
+                }
+                this.clearQueue();
+            };
+
+            nvidiaGDC.funcQueue = nvidiaGDC.funcQueue || new nvidiaGDCFunctionQueue();
+     
+})(NVIDIAGDC);
+
+
+</script>
+
+
+
+
+<style>    
+.rawHtml li {
+    list-style: none;
+ }
+.tabcomp .tabs>li {
+   list-style: none;
+ }
+
+ul {
+	padding-left: 12px;
+}
+
+
+@media screen and (max-width: 767px) {
+
+
+	.heroBanner .slider-container #slides1.singleSlideBanner .ht-460 .info.shift-down-vw {
+    	padding-top: 420px;
+	}
+	
+}
+
+
+@media screen and (max-width: 1024px) and (min-width: 768px) {
+
+
+
+	.heroBanner .slider-container #slides1.singleSlideBanner .ht-460 .info.shift-down-tablet .content-table {
+    	width: 100%;
+    	
+	}
+	
+	.heroBanner .slider-container #slides1.singleSlideBanner .ht-580 .info.shift-down-tablet .content-table {
+    	width: 100%;
+    	
+	}
+	
+	.heroBanner .slider-container #slides1.singleSlideBanner .ht-280 .info.shift-down-tablet .content-table {
+    	width: 100%;
+    	
+	}
+	
+	.heroBanner .slider-container #slides1.singleSlideBanner .ht-300 .info.shift-down-tablet .content-table {
+    	width: 100%;
+    	
+	}
+
+   
+      
+}
+
+
+
+</style>
+
+    
+
+    
+
+    <title>Maintenance</title>
+</head>
+
+
+
+
+
+                      
+<body class="body-page theme-zh-tw theme-deeplearning" data-edit-mode>
+	
+	
+
+
+
+                      
+
+
+<!--[if lt IE 9]>
+<div id="ie_compat_warning" class="site-warning"><span class="message">You are viewing this site using an out of date version of Internet Explorer. Some functionality may not work as required.</span><span class="remove"></span></div>
+<![endif]-->
+	
+
+
+
+
+                      
+
+<noscript>
+       <div class="no-js-warning">This site requires Javascript in order to view all its content. Please enable Javascript in order to access all the functionality of this web site. Here are the <a href="http://www.enable-javascript.com/" target="_blank">instructions how to enable JavaScript in your web browser.</a></div>
+    </noscript>
+
+<div  id="page-content"  class='no-margin' >
+	<div class="content_par parsys"><div class="sectionWrapper parbase section">
+
+
+
+
+                      
+
+
+
+
+<section  id="sectionwrapper_copy6fb9f89c_7ebf_464c_814f_6d10e8d27781" class="background-white p-t-120 p-b-90 tab-p-t-120 tab-p-b-60 mob-p-t-60 mob-p-b-60  " 
+	>
+	<div  class="general-container ">
+	
+        
+        	<div class="large-12 medium-12 small-12 center">
+        
+        
+    
+	
+		
+			
+		
+		
+	
+	<div class="container">
+		<div class="page-section-par parsys"><div class="textcomp section">
+
+
+
+
+                      
+
+
+
+<div  id="textcomp3904deb7_e26f_4f20_a3fa_965e546df52b" class="general-container-text    wid-default p-t-45 p-b-0             ">
+	<div class="text-center tab-text-center ">
+		
+			
+			
+				<h1 class="title color-black"><span style="text-transform:none;">為什麼畫面模糊不清?</span></h1>
+			
+		
+		
+			
+				
+			
+			
+		
+		
+			
+				
+			
+			
+		
+		
+			
+			
+				<div
+					class="body-text description color-black"><html>
+ <head></head>
+ <body>
+  <p>這只是暫時故障，謝謝您的耐心等候。</p> 
+ </body>
+</html></div>
+			
+		
+		<div class="text-button">
+			<div class="textCmpButton-par parsys"><div class="image parbase section">
+
+
+
+
+                      
+
+
+
+
+		
+		<div id="image_copy5c3e7e7e_487d_4dc3_8eff_0ce6327f90c2" class="image-container  p-t-45 p-b-30 tab-p-t-45 tab-p-b-45 mob-p-t-45 mob-p-b-45">
+			<div class="imgwidth ">
+				
+					
+										
+						<img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4wLWMwNjAgNjEuMTM0Nzc3LCAyMDEwLzAyLzEyLTE3OjMyOjAwICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IFdpbmRvd3MiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6Njg1MzE2OTNFNzREMTFERkI3NEJBNDRGNDk5NUNCRTYiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6Njg1MzE2OTRFNzREMTFERkI3NEJBNDRGNDk5NUNCRTYiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo2ODUzMTY5MUU3NEQxMURGQjc0QkE0NEY0OTk1Q0JFNiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo2ODUzMTY5MkU3NEQxMURGQjc0QkE0NEY0OTk1Q0JFNiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PgH//v38+/r5+Pf29fTz8vHw7+7t7Ovq6ejn5uXk4+Lh4N/e3dzb2tnY19bV1NPS0dDPzs3My8rJyMfGxcTDwsHAv769vLu6ubi3trW0s7KxsK+urayrqqmop6alpKOioaCfnp2cm5qZmJeWlZSTkpGQj46NjIuKiYiHhoWEg4KBgH9+fXx7enl4d3Z1dHNycXBvbm1sa2ppaGdmZWRjYmFgX15dXFtaWVhXVlVUU1JRUE9OTUxLSklIR0ZFRENCQUA/Pj08Ozo5ODc2NTQzMjEwLy4tLCsqKSgnJiUkIyIhIB8eHRwbGhkYFxYVFBMSERAPDg0MCwoJCAcGBQQDAgEAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="responsive-image " id="" alt="為什麼畫面模糊不清?" title="為什麼畫面模糊不清?" data-analytics=""/>	
+						<div class="svg-cls">
+							<div class="svg-zoom">				
+							<svg style="fill:#cccccc" xml:space="preserve" viewBox="0 0 32 32" y="0px" x="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" id="zoom-icon" version="1.1" class="zoom "><path d="M31.999,16.001C31.999,7.164,24.837,0,16.001,0S-0.001,7.164-0.001,16.001S7.165,32,16.001,32
+	  						C29.027,32,31.999,19.964,31.999,16.001z M16.001,27.077c-6.13,0-11.077-4.947-11.077-11.076c0-6.129,4.948-11.078,11.077-11.078
+	  						c6.129,0,11.076,4.949,11.076,11.078C27.077,22.13,22.129,27.077,16.001,27.077z"></path><polygon points="22.153,17.23 17.229,17.23 17.229,22.152 14.769,22.152 14.769,17.23 9.846,17.23 9.846,14.768 14.769,14.768 14.769,9.845 17.229,9.845 17.229,14.768 22.153,14.768 "></polygon></svg>
+	  						</div>
+	  					</div>
+					
+				
+			</div>
+   		</div>
+	
+	
+
+
+<script type="text/javascript">
+	NVIDIAGDC.funcQueue.addToQueue({
+		id : "image_copy5c3e7e7e_487d_4dc3_8eff_0ce6327f90c2",
+		method : "imageComponent",
+		params : [{
+				imageDesktopUrl:'/content/dam/en-zz/Solutions/404/nv-web-404-robot-ud.png',
+				imageDesktopRetinaUrl:'/content/dam/en-zz/Solutions/404/nv-web-404-robot-ud@2x.png',
+				imageTabletUrl:'/content/dam/en-zz/Solutions/404/nv-web-404-robot-625-t.png',
+				imageTabletRetinaUrl:'/content/dam/en-zz/Solutions/404/nv-web-404-robot-625-t@2x.png',
+        		imageMobileUrl:'/content/dam/en-zz/Solutions/404/nv-web-404-robot-297-m.png',
+        		imageMobileRetinaUrl:'/content/dam/en-zz/Solutions/404/nv-web-404-robot-297-m@2x.png',
+        		imageTarget:'_self',
+        		imageTargetURL:''
+			}]
+	});
+</script>
+</div>
+<div class="image parbase section">
+
+
+
+
+                      
+
+
+
+
+		
+		<div id="imageb47d83f8_cd29_4343_973a_4634b02b2766" class="image-container  p-t-0 p-b-15 tab-p-t-0 tab-p-b-15 mob-p-t-0 mob-p-b-15">
+			<div class="imgwidth ">
+				
+					
+										
+						<img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4wLWMwNjAgNjEuMTM0Nzc3LCAyMDEwLzAyLzEyLTE3OjMyOjAwICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IFdpbmRvd3MiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6Njg1MzE2OTNFNzREMTFERkI3NEJBNDRGNDk5NUNCRTYiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6Njg1MzE2OTRFNzREMTFERkI3NEJBNDRGNDk5NUNCRTYiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo2ODUzMTY5MUU3NEQxMURGQjc0QkE0NEY0OTk1Q0JFNiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo2ODUzMTY5MkU3NEQxMURGQjc0QkE0NEY0OTk1Q0JFNiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PgH//v38+/r5+Pf29fTz8vHw7+7t7Ovq6ejn5uXk4+Lh4N/e3dzb2tnY19bV1NPS0dDPzs3My8rJyMfGxcTDwsHAv769vLu6ubi3trW0s7KxsK+urayrqqmop6alpKOioaCfnp2cm5qZmJeWlZSTkpGQj46NjIuKiYiHhoWEg4KBgH9+fXx7enl4d3Z1dHNycXBvbm1sa2ppaGdmZWRjYmFgX15dXFtaWVhXVlVUU1JRUE9OTUxLSklIR0ZFRENCQUA/Pj08Ozo5ODc2NTQzMjEwLy4tLCsqKSgnJiUkIyIhIB8eHRwbGhkYFxYVFBMSERAPDg0MCwoJCAcGBQQDAgEAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="responsive-image " id="" alt="NVIDIA " title="NVIDIA " data-analytics=""/>	
+						<div class="svg-cls">
+							<div class="svg-zoom">				
+							<svg style="fill:#cccccc" xml:space="preserve" viewBox="0 0 32 32" y="0px" x="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" id="zoom-icon" version="1.1" class="zoom "><path d="M31.999,16.001C31.999,7.164,24.837,0,16.001,0S-0.001,7.164-0.001,16.001S7.165,32,16.001,32
+	  						C29.027,32,31.999,19.964,31.999,16.001z M16.001,27.077c-6.13,0-11.077-4.947-11.077-11.076c0-6.129,4.948-11.078,11.077-11.078
+	  						c6.129,0,11.076,4.949,11.076,11.078C27.077,22.13,22.129,27.077,16.001,27.077z"></path><polygon points="22.153,17.23 17.229,17.23 17.229,22.152 14.769,22.152 14.769,17.23 9.846,17.23 9.846,14.768 14.769,14.768 14.769,9.845 17.229,9.845 17.229,14.768 22.153,14.768 "></polygon></svg>
+	  						</div>
+	  					</div>
+					
+				
+			</div>
+   		</div>
+	
+	
+
+
+<script type="text/javascript">
+	NVIDIAGDC.funcQueue.addToQueue({
+		id : "imageb47d83f8_cd29_4343_973a_4634b02b2766",
+		method : "imageComponent",
+		params : [{
+				imageDesktopUrl:'/content/dam/en-zz/Solutions/intelligent-machines/nvidia-jetson/logo/intelligent-machines-nvidia-tile-190-m.jpg',
+				imageDesktopRetinaUrl:'/content/dam/en-zz/Solutions/intelligent-machines/nvidia-jetson/logo/intelligent-machines-nvidia-tile-190-m@2x.jpg',
+				imageTabletUrl:'/content/dam/en-zz/Solutions/intelligent-machines/nvidia-jetson/logo/intelligent-machines-nvidia-tile-190-m.jpg',
+				imageTabletRetinaUrl:'/content/dam/en-zz/Solutions/intelligent-machines/nvidia-jetson/logo/intelligent-machines-nvidia-tile-190-m@2x.jpg',
+        		imageMobileUrl:'/content/dam/en-zz/Solutions/intelligent-machines/nvidia-jetson/logo/intelligent-machines-nvidia-tile-190-m.jpg',
+        		imageMobileRetinaUrl:'/content/dam/en-zz/Solutions/intelligent-machines/nvidia-jetson/logo/intelligent-machines-nvidia-tile-190-m@2x.jpg',
+        		imageTarget:'_self',
+        		imageTargetURL:''
+			}]
+	});
+</script>
+</div>
+
+</div>
+
+			</div>
+		</div>
+  </div>
+
+
+</div>
+
+</div>
+
+	</div>
+	
+       
+       		</div>
+       
+       
+    
+	
+</div>
+</section>
+
+
+<!-- Horizontal divider Line Starts here -->
+
+<!-- Horizontal divider Line Ends here --></div>
+
+</div>
+
+</div>
+
+	
+
+
+
+                      
+
+
+	
+
+
+
+
+                      
+<script type="text/javascript" src="/etc/designs/nvidiaGDC/clientlibs_base.min.6bdb7ff619aba5c77f517eba411ae32c.js"></script>
+
+<script type="text/javascript" src="/etc/designs/nvidiaGDC/clientlibs-all.min.d8a31d96e18dc631c88f340742f22d27.js"></script>
+
+<script type="text/javascript" src="/etc/designs/nvidiaGDC/clientlibs-deep-learning.min.d41d8cd98f00b204e9800998ecf8427e.js"></script>
+
+
+<script type="text/javascript">
+		NVIDIAGDC.funcQueue.executeQueue();
+		//DTM code Execution
+		if(typeof _satellite !== "undefined"){
+			_satellite.pageBottom();
+		}
+		
+		/*Logic to handle window resize , All window resize should be handled here at global Level*/
+		var windowResizeID,
+		screenWidth,
+		pixelSize = window.devicePixelRatio,
+		largeDesktopBreakpoint = 1281,
+		desktopBreakpoint = 1025,
+		tabletBreakpoint = 768; 
+		var preResizeViewPort=NVIDIAGDC.Browser.getViewport();
+		$(window).resize(function() {
+		    clearTimeout(windowResizeID);
+		    windowResizeID = setTimeout(handleWindowResizing, 500);
+		    
+		});
+
+		function handleWindowResizing(){
+			/*HeroBanner resizing handle*/
+			var heroBannerarticles=$(".heroBanner").find("article");
+			var articleLength=heroBannerarticles.length;
+			heroBannerarticles.each(function(index,element) {
+				var viewPort = NVIDIAGDC.Browser.getViewport();		
+				var bcgImagePath = '';
+				if(viewPort!==preResizeViewPort) {
+					if (index === (length - 1)) {
+						preResizeViewPort=viewPort;
+					}
+					if(viewPort === "mobile"){
+						bcgImagePath = $(this).attr('data-bcgimagemobile');
+					} else if(viewPort === "tablet"){
+						bcgImagePath = $(this).attr('data-bcgimagetablet'); 
+					} else if(viewPort === "desktop"){
+						bcgImagePath = $(this).attr('data-bcgimagepc');
+					}
+					if(bcgImagePath !== "undefined" && bcgImagePath !== "" ){
+						$(this).css("background-image" , "url('" + bcgImagePath +"')");
+					}
+				}
+			});
+			
+			/*Column Component resizing handle resizing column height and width*/
+			var columncomponents=$(".columnLayout").find(".row.equial-h-col");
+			columncomponents.each(function(){
+				//checks the height of section which is inside column and makes highest height to all sections
+					var count=0;
+					screenWidth = $(document).width();
+					var setEquiHeight=false;
+					var colsize=$(this).find('>.column').length;
+					var colEle=$(this).find('>.column')[0];
+					var isMobileNonResponsive= ((colsize==4 && $(colEle).hasClass('small-3')) || (colsize==3 && $(colEle).hasClass('small-4')) || (colsize==2 && $(colEle).hasClass('small-2')) );
+					var isTabletNonresponsive = ((colsize==4 && $(colEle).hasClass('medium-3')) || (colsize==3 && $(colEle).hasClass('medium-4')) || (colsize==2 && $(colEle).hasClass('medium-2')) );
+					var isTabSingleCol = (colsize==2 || colsize==4) && $(colEle).hasClass('medium-12') ; 
+					if(screenWidth >= desktopBreakpoint || isMobileNonResponsive || (screenWidth >= tabletBreakpoint && colsize==2 && !isTabSingleCol) || (screenWidth >= tabletBreakpoint && colsize==4 && !isTabSingleCol) || (screenWidth >= tabletBreakpoint && colsize>2 && isTabletNonresponsive)){
+						setEquiHeight=true; 
+					}
+					if (setEquiHeight) {
+						var columnHeightArr = [];
+						var sectionHeightArr = [];
+						var txtHeightArr = [];
+						var CardHeightArr = [];
+						$(this).find('>.column').each(function() {
+							$(this).css('min-height','');
+							var sectionHeight =0;
+							var txtHeight =0;
+							var cardHeight=0;
+							if($(this).find('.sectionWrapper').length==1){
+								$(this).find('.sectionWrapper').find('.general-container').css('min-height','');
+								sectionHeight = $(this).find('.sectionWrapper').find('.general-container').height();
+							}else if($(this).find('.textcomp').length==1){
+								//TODO: rethink this
+								//txtHeight = $(this).find('.textcomp').find('.general-container-text').height();
+							}
+							sectionHeightArr[count]=sectionHeight;
+							//TODO: rethink this
+							//txtHeightArr[count]=txtHeight;
+
+							if($(this).find('.equi-height-col').length){
+								$(this).find('.equi-height-col').css('min-height','');
+								cardHeight = $(this).find('.equi-height-col').height();
+							}
+							CardHeightArr[count]=cardHeight;
+
+							var columnHeight = $(this).height();
+							columnHeightArr[count]= columnHeight;
+							count++;		    			
+							
+						});
+						if( $(this).parent().hasClass("full-width")){
+							columnHeightArr[count]= "360";
+						}
+						var maxSectionHeight=Math.max.apply(null, sectionHeightArr);
+						var maxheight=Math.max.apply(null, columnHeightArr);
+						var maxColCardHeight=Math.max.apply(null, CardHeightArr);
+						//TODO: rethink this
+						//var maxColTextHeight=Math.max.apply(null, txtHeightArr);
+						
+						
+						if(NVIDIAGDC.Browser.getViewport() == "tablet" && colsize == '4' && !isTabletNonresponsive) {	
+							var columnsArray = $(this).find('>.column');
+							$(columnsArray).addClass('tablet-clear');	
+							var colCardArray=$(columnsArray).find('>.column >.equi-height-col');
+							var sectionArray=$(columnsArray).find('.sectionWrapper >section >.general-container');
+							var textArray=$(columnsArray).find('.textcomp');
+							for (i = 0; i < 4; i++) {
+								if(i<2){							
+									var firstRowColumns=Math.max.apply(Math,columnHeightArr.slice(0, 2));							
+									$(columnsArray[i]).css('min-height',firstRowColumns);
+									if(colCardArray.length){
+										var firstRowCardCols=Math.max.apply(Math,cardHeightArray.slice(0, 2));							
+										$(colCardArray[i]).css('min-height',firstRowCardCols);
+									}
+									if(sectionArray.length){
+										var firstRowSectionHeight=Math.max.apply(Math,sectionHeightArr.slice(0, 2));							
+										$(sectionArray[i]).css('min-height',firstRowSectionHeight);
+									}else if(textArray.length){
+										//TODO: rethink this
+										//var firstRowtextHeight=Math.max.apply(Math,txtHeightArr.slice(0, 2));							
+										//$(textArray[i]).css('min-height',firstRowtextHeight);
+									}
+								}else {	
+									var secondRowColumns=Math.max.apply(Math,columnHeightArr.slice(2, 4));							
+									$(columnsArray[i]).css('min-height',secondRowColumns);
+									if(colCardArray.length){
+										var secondRowCardCols=Math.max.apply(Math,cardHeightArray.slice(2, 4));							
+										$(colCardArray[i]).css('min-height',secondRowCardCols);
+									}
+									if(sectionArray.length){
+										var secondRowSectionHeight=Math.max.apply(Math,sectionHeightArr.slice(2, 4));							
+										$(sectionArray[i]).css('min-height',secondRowSectionHeight);
+									}else if(textArray.length){
+										//TODO: rethink this
+										//var secondRowtextHeight=Math.max.apply(Math,txtHeightArr.slice(0, 2));							
+										//$(textArray[i]).css('min-height',secondRowtextHeight);
+									}
+								}						
+							}
+						}else {
+							$(this).find('>.column').css('min-height',maxheight);
+							if($(this).find('>.column').find('.sectionWrapper').length==colsize){
+								$(this).find('>.column').find('.sectionWrapper').find('.general-container').css('min-height',maxSectionHeight);
+							}else if($(this).find('>.column').find('.textcomp').length==colsize){
+								//TODO: rethink this
+								//this.$element.find('>.column').find('.textcomp').find('.general-container-text').css('min-height',maxColTextHeight);
+							}
+							if($(this).find('>.column >.equi-height-col').length){
+								$(this).find('>.column >.equi-height-col').css('min-height',maxColCardHeight);
+							}
+						}
+						
+							
+							
+					}
+				
+			});
+		}
+		
+</script>
+
+
+</body>
+
+</html>
